@@ -1,5 +1,3 @@
-
-         
 import turtle
 turtle.tracer(1)
 rounds = 10
